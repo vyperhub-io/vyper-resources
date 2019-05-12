@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/ethereum/vyper/master/logo/vyper-logo-transparent.svg?sanitize=true" alt="" width="100">
-
-# A curated list of awesome vyper resources
+# A curated list of awesome [vyper](https://github.com/ethereum/vyper) resources <img align="right" src="https://raw.githubusercontent.com/ethereum/vyper/master/logo/vyper-logo-transparent.svg?sanitize=true" alt="" width="100">
 
 ## Official
 * [Vyper Repository](https://github.com/ethereum/vyper)
