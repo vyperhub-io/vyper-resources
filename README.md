@@ -8,12 +8,14 @@
 * [Gitter Channel](https://gitter.im/ethereum/vyper)
 
 ## Contracts
+* [Vyperhub.io Contracts](https://github.com/vyperhub-io/vyper-smart-contracts)
 * [A collection of useful Vyper contracts developed with formal methods](https://github.com/LayerXcom/verified-vyper-contracts)
-* [eth2.0 Deposit Contract](https://github.com/ethereum/deposit_contract/blob/master/deposit_contract/contracts/validator_registration.v.py)
-* [eth2.0 Sharding Manager Contract](https://github.com/ethereum/sharding)
 * [Uniswap - ERC20 exchange](https://github.com/Uniswap/contracts-vyper)
 * [Cryptoeconomics Lab - Plasma Contracts](https://github.com/cryptoeconomicslab/plasma-chamber/tree/master/packages/contracts)
 * [Plasma Group Contracts](https://github.com/plasma-group/plasma-contracts)
+* [Vyper implementation of Plasma Cash](https://github.com/zatoichi-labs/plasma-cash-vyper)
+* [eth2.0 Deposit Contract](https://github.com/ethereum/deposit_contract/blob/master/deposit_contract/contracts/validator_registration.v.py)
+* [eth2.0 Sharding Manager Contract](https://github.com/ethereum/sharding)
 * [ERC-721](https://github.com/maurelian/erc721-vyper)
 
 ## Online Compilers
@@ -27,7 +29,6 @@
 * [Visual Studio](https://github.com/p-/vscode-vyper)
 * [IntelliJ](https://github.com/NikitaMishin/vyper-plugin)
 * [Emacs](https://github.com/ralexstokes/vyper-mode)
-
 
 ## Articles
 * [Understanding Vyper: The slick New Ethereum language](https://blockgeeks.com/guides/understanding-vyper/)
