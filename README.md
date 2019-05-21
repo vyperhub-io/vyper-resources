@@ -25,7 +25,9 @@
 * [Atom](https://atom.io/packages/language-vyper)
 * [Sublime](https://github.com/jacqueswww/sublime-vyper)
 * [Visual Studio](https://github.com/p-/vscode-vyper)
+* [IntelliJ](https://github.com/NikitaMishin/vyper-plugin)
 * [Emacs](https://github.com/ralexstokes/vyper-mode)
+
 
 ## Articles
 * [Understanding Vyper: The slick New Ethereum language](https://blockgeeks.com/guides/understanding-vyper/)
