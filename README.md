@@ -35,6 +35,7 @@
 * [A day with Vyper](https://medium.com/coinmonks/a-day-with-vyper-6a0a5861f24a)
 * [First Attempt on Vyper](https://medium.com/coinmonks/first-attempt-on-vyper-eb1d1ccea6ed)
 * [Vyper Development Using Truffle](https://medium.com/coinmonks/ethereum-vyper-development-using-truffle-73781c4d81d5)
+* [How I learned to stop worrying and love Vyper](https://medium.com/@daniel.jozsef/why-i-learned-to-stop-worrying-and-love-viper-part-1-c6ba7bda02f5)
 
 ## Other
 * [NPM: Truffle's vyper compiler](https://www.npmjs.com/package/truffle-compile-vyper)
