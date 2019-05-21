@@ -26,7 +26,7 @@
 ## IDE Syntax Highlighting
 * [Atom](https://atom.io/packages/language-vyper)
 * [Sublime](https://github.com/jacqueswww/sublime-vyper)
-* [Visual Studio](https://github.com/p-/vscode-vyper)
+* [Visual Studio](https://github.com/tintinweb/vscode-vyper)
 * [IntelliJ](https://github.com/NikitaMishin/vyper-plugin)
 * [Emacs](https://github.com/ralexstokes/vyper-mode)
 
