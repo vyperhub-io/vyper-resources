@@ -36,7 +36,7 @@
 * [Vyper Development Using Truffle](https://medium.com/coinmonks/ethereum-vyper-development-using-truffle-73781c4d81d5)
 
 ## Other
-* [Status.im - Easy to use Vyper debugger](https://ethereum.stackexchange.com/questions/tagged/vyper)
+* [Status.im - Easy to use Vyper debugger](https://github.com/status-im/vyper-debug)
 * [Questions on Stackexchange](https://ethereum.stackexchange.com/questions/tagged/vyper)
 * [First verified Vyper Contract on Etherscan](https://twitter.com/etherscan/status/1094595628368162816)
 
